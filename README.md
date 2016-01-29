@@ -6,7 +6,10 @@ Jeu navy en C utilisant les signaux pour échanger des informations
 
 # Usage
 ## Serveur
-`./navy navy_positions.txt`
+`./navy positions.txt`
 
 ## Client
-`./navy [pid serveur] navy_positions.txt`
+`./navy [pid serveur] positions.txt`
+
+## Aperçu
+![navy](./navy.png)
